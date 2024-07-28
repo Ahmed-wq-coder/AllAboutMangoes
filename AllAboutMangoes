@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mango Facts</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>All About Mangoes</h1>
+        <nav>
+            <ul>
+                <li><a href="#nutrition">Nutrition</a></li>
+                <li><a href="#intake">Recommended Intake</a></li>
+                <li><a href="#benefits">Health Benefits</a></li>
+                <li><a href="#interesting-facts">Interesting Facts</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="nutrition">
+        <h2>Nutrition</h2>
+        <p>Mangoes are a delicious tropical fruit that are packed with vitamins, minerals, and antioxidants. Here's a breakdown of the nutritional content per 100 grams of fresh mango:</p>
+        <ul>
+            <li>Calories: 60</li>
+            <li>Carbohydrates: 15 g</li>
+            <li>Sugars: 14 g</li>
+            <li>Dietary Fiber: 1.6 g</li>
+            <li>Protein: 0.8 g</li>
+            <li>Fat: 0.4 g</li>
+            <li>Vitamin C: 36.4 mg (60% of the Daily Value)</li>
+            <li>Vitamin A: 54 µg (6% of the Daily Value)</li>
+            <li>Folate: 43 µg (11% of the Daily Value)</li>
+            <li>Vitamin E: 0.9 mg (5% of the Daily Value)</li>
+            <li>Vitamin K: 4.2 µg (5% of the Daily Value)</li>
+            <li>Potassium: 168 mg (5% of the Daily Value)</li>
+            <li>Magnesium: 10 mg (3% of the Daily Value)</li>
+        </ul>
+    </section>
+
+    <section id="intake">
+        <h2>Recommended Intake</h2>
+        <p>While mangoes are nutritious, it's important to consume them in moderation due to their natural sugar content. Here are some general guidelines for mango consumption:</p>
+        <ul>
+            <li>**Adults**: One to two cups of mango per day is a healthy amount.</li>
+            <li>**Children**: One cup of mango per day is generally sufficient.</li>
+            <li>**Individuals with diabetes**: Should monitor their mango intake carefully due to the fruit's sugar content.</li>
+        </ul>
+        <p>It's always best to consult with a healthcare provider or nutritionist to determine the right amount for your specific dietary needs.</p>
+    </section>
+
+    <section id="benefits">
+        <h2>Health Benefits</h2>
+        <p>Mangoes offer numerous health benefits, including:</p>
+        <ul>
+            <li>**Boosting Immunity**: High in vitamin C, mangoes help strengthen the immune system.</li>
+            <li>**Supporting Eye Health**: Contains vitamin A and beta-carotene, which promote good vision.</li>
+            <li>**Aiding Digestion**: Dietary fiber in mangoes aids in digestion and prevents constipation.</li>
+            <li>**Promoting Skin Health**: Antioxidants in mangoes help protect and rejuvenate the skin.</li>
+            <li>**Anti-inflammatory Properties**: Mangoes have anti-inflammatory compounds that may help reduce inflammation in the body.</li>
+            <li>**Supporting Heart Health**: Contains potassium and magnesium, which are essential for maintaining a healthy heart.</li>
+        </ul>
+    </section>
+
+    <section id="interesting-facts">
+        <h2>Interesting Facts</h2>
+        <p>Here are some fun and interesting facts about mangoes:</p>
+        <ul>
+            <li>Mangoes are known as the "king of fruits" in many parts of the world.</li>
+            <li>There are over 500 varieties of mangoes grown around the world.</li>
+            <li>Mangoes originated in South Asia and have been cultivated for over 4,000 years.</li>
+            <li>India is the largest producer of mangoes, accounting for nearly half of the world's production.</li>
+            <li>Mangoes belong to the same family as pistachios and cashews.</li>
+            <li>The mango tree can grow as tall as 100 feet and live for over 300 years.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mango Enthusiasts. All rights reserved.</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
